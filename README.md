@@ -4,7 +4,11 @@
 
 ## Integrantes do grupo:
 
-- Vitória Carvalho Menezes de Oliveira, Thalles , Arthur Campos de Souza, Adelphe Stefy Soevy Noumeton, Gilson Julio Peixoto Filho
+- Adelphe Stefy Soevy Noumeton
+- Arthur Campos de Souza
+- Gilson Julio Peixoto Filho
+- Thalles Bruno Rodrigues
+- Vitória Carvalho Menezes de Oliveira
 
 ## Descrição do projeto
 
